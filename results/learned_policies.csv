@@ -1,0 +1,25 @@
+agent,trend,last breakout,position,action,seeds agreeing
+Q-learning,down,-,short,Out,10/10
+Q-learning,down,-,out,Out,10/10
+Q-learning,down,-,long,Out,10/10
+Q-learning,flat,-,short,Long,10/10
+Q-learning,flat,-,out,Long,9/10
+Q-learning,flat,-,long,Long,10/10
+Q-learning,up,-,short,Long,10/10
+Q-learning,up,-,out,Long,10/10
+Q-learning,up,-,long,Long,10/10
+Q-learning + regime,down,down,short,Out,10/10
+Q-learning + regime,down,down,out,Out,10/10
+Q-learning + regime,down,down,long,Out,10/10
+Q-learning + regime,flat,down,short,Out,10/10
+Q-learning + regime,flat,down,out,Out,10/10
+Q-learning + regime,flat,down,long,Out,9/10
+Q-learning + regime,flat,none yet,short,Long,9/10
+Q-learning + regime,flat,none yet,out,Long,9/10
+Q-learning + regime,flat,none yet,long,Long,10/10
+Q-learning + regime,flat,up,short,Long,10/10
+Q-learning + regime,flat,up,out,Long,10/10
+Q-learning + regime,flat,up,long,Long,10/10
+Q-learning + regime,up,up,short,Long,10/10
+Q-learning + regime,up,up,out,Long,10/10
+Q-learning + regime,up,up,long,Long,10/10
